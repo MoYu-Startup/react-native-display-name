@@ -1,0 +1,27 @@
+{
+  "name": "react-native-display-name",
+  "version": "0.0.1",
+  "description": "react-native set display name",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoYu-Startup/react-native-display-name.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Dppo <xiaogao235@gmail.com> (https://github.com/dppo)",
+  "license": "MIT",
+  "bin": {
+    "set-display-name": "bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/MoYu-Startup/react-native-display-name/issues"
+  },
+  "homepage": "https://github.com/MoYu-Startup/react-native-display-name#readme",
+  "dependencies": {
+    "@raydeck/react-native-utilities": "^1.4.1"
+  }
+}

@@ -1,0 +1,7 @@
+# Android/IntelliJ
+#
+.idea
+
+# node.js
+#
+node_modules/
