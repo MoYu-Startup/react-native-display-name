@@ -1,6 +1,6 @@
 {
   "name": "react-native-display-name",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react-native set display name",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/MoYu-Startup/react-native-display-name#readme",
   "dependencies": {
-    "@raydeck/react-native-utilities": "^1.4.1"
+    "@raydeck/react-native-utilities": "^1.4.1",
+    "cosmiconfig": "^9.0.0"
   }
 }
